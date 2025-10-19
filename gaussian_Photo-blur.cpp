@@ -1,3 +1,11 @@
+mkdir gaussian_blur_project
+cd gaussian_blur_project
+
+cd ~/gaussian_blur_project
+    
+nano gaussian_blur.cpp
+
+
 #include <iostream>
 #include <opencv2/opencv.hpp>
 #include <omp.h>
